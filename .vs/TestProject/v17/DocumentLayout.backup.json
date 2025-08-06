@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u043E\u043A\u0438\\testproject\\testproject\\serilog\\rocketchat\\rocketchatsink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|solutionrelative:testproject\\serilog\\rocketchat\\rocketchatsink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u043E\u043A\u0438\\testproject\\testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|solutionrelative:testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u043E\u043A\u0438\\testproject\\testproject\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|solutionrelative:testproject\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u043E\u043A\u0438\\testproject\\testproject\\restic\\data\\resticconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|solutionrelative:testproject\\restic\\data\\resticconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u043E\u043A\u0438\\testproject\\testproject\\restic\\resticwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|solutionrelative:testproject\\restic\\resticwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u043E\u043A\u0438\\testproject\\testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|solutionrelative:testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskBackupDB/True/SqlTable/HangFire.Job.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -39,14 +47,6 @@
       "RelativeMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|solutionrelative:testproject\\restic\\data\\resticbackupresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u043E\u043A\u0438\\testproject\\testproject\\serilog\\rocketchat\\rocketchatsink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|solutionrelative:testproject\\serilog\\rocketchat\\rocketchatsink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u043E\u043A\u0438\\testproject\\testproject\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|solutionrelative:testproject\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u0443\u0440\u043E\u043A\u0438\\testproject\\testproject\\serilog\\loggerconfigurationrocketchatsinkextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7EC4EF1-6237-46BE-8545-CB0E4BD16974}|TestProject\\TestProject.csproj|solutionrelative:testproject\\serilog\\loggerconfigurationrocketchatsinkextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,40 +74,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HangFire.JobQueue [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentIndex": 7,
+              "Title": "HangFire.JobQueue.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskBackupDB/True/SqlTable/HangFire.JobQueue.sql",
-              "ToolTip": "HangFire.JobQueue [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskBackupDB/True/SqlTable/HangFire.JobQueue.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-04T23:26:44.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T23:26:44.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HangFire.Job [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentIndex": 6,
+              "Title": "HangFire.Job.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskBackupDB/True/SqlTable/HangFire.Job.sql",
-              "ToolTip": "HangFire.Job [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskBackupDB/True/SqlTable/HangFire.Job.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-04T23:26:06.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T23:26:06.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "RocketchatSink.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\TestProject\\Serilog\\Rocketchat\\RocketchatSink.cs",
               "RelativeDocumentMoniker": "TestProject\\Serilog\\Rocketchat\\RocketchatSink.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\TestProject\\Serilog\\Rocketchat\\RocketchatSink.cs",
               "RelativeToolTip": "TestProject\\Serilog\\Rocketchat\\RocketchatSink.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-04T18:54:53.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ResticServise.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\TestProject\\Restic\\ResticServise.cs",
               "RelativeDocumentMoniker": "TestProject\\Restic\\ResticServise.cs",
@@ -115,12 +113,11 @@
               "RelativeToolTip": "TestProject\\Restic\\ResticServise.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAwwDwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T18:46:28.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T18:46:28.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ResticConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\TestProject\\Restic\\Data\\ResticConfiguration.cs",
               "RelativeDocumentMoniker": "TestProject\\Restic\\Data\\ResticConfiguration.cs",
@@ -133,40 +130,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HangFire.List [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentIndex": 9,
+              "Title": "HangFire.List.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskBackupDB/True/SqlTable/HangFire.List.sql",
-              "ToolTip": "HangFire.List [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskBackupDB/True/SqlTable/HangFire.List.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-04T23:27:04.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T23:27:04.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\TestProject\\Program.cs",
               "RelativeDocumentMoniker": "TestProject\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\TestProject\\Program.cs",
               "RelativeToolTip": "TestProject\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEUAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T14:19:56.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HangFire.State [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentIndex": 8,
+              "Title": "HangFire.State.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskBackupDB/True/SqlTable/HangFire.State.sql",
-              "ToolTip": "HangFire.State [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskBackupDB/True/SqlTable/HangFire.State.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-04T23:26:48.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T23:26:48.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ResticWrapper.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\TestProject\\Restic\\ResticWrapper.cs",
               "RelativeDocumentMoniker": "TestProject\\Restic\\ResticWrapper.cs",
@@ -174,7 +169,19 @@
               "RelativeToolTip": "TestProject\\Restic\\ResticWrapper.cs",
               "ViewState": "AgIAALgAAAAAAAAAAAA3wM8AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T17:52:36.277Z",
+              "WhenOpened": "2025-08-04T17:52:36.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\TestProject\\Setting.cs",
+              "RelativeDocumentMoniker": "TestProject\\Setting.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\TestProject\\Setting.cs",
+              "RelativeToolTip": "TestProject\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:00:25.87Z",
               "EditorCaption": ""
             },
             {
@@ -187,25 +194,11 @@
               "RelativeToolTip": "TestProject\\Serilog\\LoggerConfigurationRocketchatSinkExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T20:51:16.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T20:51:16.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Setting.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\TestProject\\Setting.cs",
-              "RelativeDocumentMoniker": "TestProject\\Setting.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\TestProject\\Setting.cs",
-              "RelativeToolTip": "TestProject\\Setting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T17:00:25.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ResticSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\TestProject\\Restic\\Data\\ResticSnapshot.cs",
               "RelativeDocumentMoniker": "TestProject\\Restic\\Data\\ResticSnapshot.cs",
@@ -213,12 +206,11 @@
               "RelativeToolTip": "TestProject\\Restic\\Data\\ResticSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T17:49:42.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T17:49:42.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ResticBackupResult.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0423\u0440\u043E\u043A\u0438\\TestProject\\TestProject\\Restic\\Data\\ResticBackupResult.cs",
               "RelativeDocumentMoniker": "TestProject\\Restic\\Data\\ResticBackupResult.cs",
@@ -226,8 +218,7 @@
               "RelativeToolTip": "TestProject\\Restic\\Data\\ResticBackupResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T17:50:42.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T17:50:42.133Z"
             },
             {
               "$type": "Document",
@@ -239,8 +230,7 @@
               "RelativeToolTip": "TestProject\\Restic\\Data\\ResticStats.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T17:50:18.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T17:50:18.292Z"
             }
           ]
         }

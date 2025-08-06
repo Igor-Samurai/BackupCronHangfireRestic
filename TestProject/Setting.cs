@@ -18,5 +18,6 @@ namespace TestProject
         public static string Folder { get; set; }
         public static List<string> Files { get; set; } = [];
         public static bool InitRep { get; set; }
+        public static string WebHook { get; set; }
     }
 }

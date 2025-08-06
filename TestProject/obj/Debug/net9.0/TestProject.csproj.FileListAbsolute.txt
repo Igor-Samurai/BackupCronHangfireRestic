@@ -81,3 +81,4 @@ C:\Users\User\Desktop\Уроки\TestProject\TestProject\bin\Debug\net9.0\runtim
 C:\Users\User\Desktop\Уроки\TestProject\TestProject\bin\Debug\net9.0\Hangfire.AspNetCore.dll
 C:\Users\User\Desktop\Уроки\TestProject\TestProject\bin\Debug\net9.0\Hangfire.NetCore.dll
 C:\Users\User\Desktop\Уроки\TestProject\TestProject\bin\Debug\net9.0\Serilog.dll
+C:\Users\User\Desktop\Уроки\TestProject\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json

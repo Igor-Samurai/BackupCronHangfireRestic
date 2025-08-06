@@ -48,6 +48,10 @@ namespace TestProject
             Console.WriteLine("Укажите путь к папке бэкапа");
             Setting.Folder = Console.ReadLine();
 
+            Console.WriteLine("Укажите WebHook для сохранения логов в RocketChat");
+            Setting.WebHook = Console.ReadLine();
+
+
             GetFiles(); //Получаем от пользователя пути к файлам
 
             GetInitRepository();//Получаем от ответ по инициализации репозитория (да или нет)

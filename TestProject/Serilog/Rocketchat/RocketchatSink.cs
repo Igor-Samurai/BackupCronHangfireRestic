@@ -12,35 +12,34 @@ namespace TestProject.Serilog.Rocketchat
     
     public class RocketchatSink:ILogEventSink
     {
-        private string _urlChanel = "Какой то адрес канала";
+        
         public async void Emit(LogEvent logEvent)
         {
+            string message = "";
             if (logEvent.Level == LogEventLevel.Information)
             {
                 Console.WriteLine($"{logEvent.Timestamp.LocalDateTime} - {logEvent.MessageTemplate}");
+                message = $"{logEvent.Timestamp.LocalDateTime} - {logEvent.MessageTemplate}";
             }
             else
             {
                 Console.WriteLine($"{logEvent.Timestamp.LocalDateTime} - {logEvent.MessageTemplate} (ошибка: {logEvent.Exception})");
+                message = $"{logEvent.Timestamp.LocalDateTime} - {logEvent.MessageTemplate} (ошибка: {logEvent.Exception})";
             }
-            
-            
-            //string message = "Какое-то сообщение";
-            
-            //string requestText = "{\"text\" :\"" + message + "\"}";
 
-           
-            //HttpClient client = new HttpClient();
-            //HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Post, _urlChanel);
-            //request.Content = new StringContent(requestText);
-            //request.Content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
+            HttpClient client = new HttpClient();
+            HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Post, Setting.WebHook);
+            request.Content = new StringContent("{\"alias\":\"logger-bacckup\",\"text\":\"" +
+                message +
+                "\"}");
+            request.Content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
+            await client.SendAsync(request);
 
-            //    //Можно закомментировать эти три строчки, чтобы не отправлялись уведомления
+            //Подумать, что делать, если лог не отправился по какой либо причине
             //HttpResponseMessage response = await client.SendAsync(request);
             //response.EnsureSuccessStatusCode();
             //string responseBody = await response.Content.ReadAsStringAsync();
-
-            }
+        }
 
     }
 }
